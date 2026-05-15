@@ -90,31 +90,29 @@ The notebook generates the following visual outputs:
 
 Add your screenshots inside the `screenshots/` folder and update the image paths below.
 
-### Evaluation Metrics
-
-![Evaluation Metrics]
-https://github.com/abir945/AI_ML_LAB/blob/main/Linear_Regression/screenshots/Actual%20&%20Predicted%20Salary%20Graph.png?raw=true
+### Error Metrics
+<img width="550" height="436" alt="image" src="https://github.com/user-attachments/assets/cb19a0b6-d42b-4fe1-86d4-ba21aca337f3" />
 
 ### Loss Curve
 
 ![Loss Curve]
-https://github.com/abir945/AI_ML_LAB/blob/main/Linear_Regression/screenshots/Loss%20Curve.png?raw=true
+<img width="789" height="635" alt="image" src="https://github.com/user-attachments/assets/a6e0a86e-95f6-4b20-bfad-dec0eb26b0b4" />
 
 ### Actual vs Predicted Salary
 
 ![Actual vs Predicted]
-https://github.com/abir945/AI_ML_LAB/blob/main/Linear_Regression/screenshots/Actual%20&%20Predicted%20Salary%20Graph.png?raw=true
+<img width="863" height="765" alt="image" src="https://github.com/user-attachments/assets/d13b1bd9-ac6f-4b25-b190-3059d8f3480c" />
 
 ### Sample Predictions
 
 ![Sample Predictions]
-https://github.com/abir945/AI_ML_LAB/blob/main/Linear_Regression/screenshots/Sample%20Predictions.png?raw=true
+<img width="577" height="626" alt="image" src="https://github.com/user-attachments/assets/ab8c999d-2db8-4b22-b8cc-68fddc89968f" />
 
 ---
 
 ### File Description
 
-- `linear_regression.ipynb` - Main Google Colab / Jupyter Notebook containing the full implementation.
+- `220144_regression.ipynb` - Main Google Colab / Jupyter Notebook containing the full implementation.
 - `dataset/train.csv` - Dataset used for training and testing the model.
 - `screenshots/` - Folder containing output screenshots from the notebook.
 - `README.md` - Project documentation file.
@@ -142,7 +140,7 @@ Required libraries:
 ## How to Run
 
 1. Open the project folder.
-2. Open `linear_regression.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `220144_regression.ipynb` in Jupyter Notebook or Google Colab.
 3. Make sure the dataset is available at:
 
 ```text
