@@ -89,7 +89,7 @@ The notebook generates and saves the following outputs:
 2. Make sure the dataset is available at:
 
 ```text
-dataset/data.csv
+dataset/train.csv
 ```
 
 3. Install or import the required libraries:
