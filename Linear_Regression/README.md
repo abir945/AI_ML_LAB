@@ -88,7 +88,7 @@ The notebook generates the following visual outputs:
 
 ## Screenshots
 
-Add your screenshots inside the `screenshots/` folder and update the image paths below.
+Added screenshots inside the `screenshots/` folder.
 
 ### Error Metrics
 <img width="550" height="436" alt="image" src="https://github.com/user-attachments/assets/cb19a0b6-d42b-4fe1-86d4-ba21aca337f3" />
