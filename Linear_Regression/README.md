@@ -95,17 +95,14 @@ Add your screenshots inside the `screenshots/` folder and update the image paths
 
 ### Loss Curve
 
-![Loss Curve]
 <img width="789" height="635" alt="image" src="https://github.com/user-attachments/assets/a6e0a86e-95f6-4b20-bfad-dec0eb26b0b4" />
 
 ### Actual vs Predicted Salary
 
-![Actual vs Predicted]
 <img width="863" height="765" alt="image" src="https://github.com/user-attachments/assets/d13b1bd9-ac6f-4b25-b190-3059d8f3480c" />
 
 ### Sample Predictions
 
-![Sample Predictions]
 <img width="577" height="626" alt="image" src="https://github.com/user-attachments/assets/ab8c999d-2db8-4b22-b8cc-68fddc89968f" />
 
 ---
