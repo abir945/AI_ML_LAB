@@ -63,25 +63,21 @@ The notebook generates and saves the following outputs:
 
 ### Confusion Matrix
 
-![Confusion Matrix]
 <img width="603" height="758" alt="image" src="https://github.com/user-attachments/assets/537ff39f-0abb-43dd-b251-1a9f85f486f7" />
 
 
 ### Evaluation Metrics
 
-![Evaluation Metrics]
 <img width="572" height="359" alt="image" src="https://github.com/user-attachments/assets/e53591d3-6c37-4947-bdd8-aa9cac895de6" />
 
 
 ### ROC Curve
 
-![ROC Curve]
 <img width="685" height="755" alt="image" src="https://github.com/user-attachments/assets/ef2ab327-2b17-4de5-a4c6-12f0e4443b69" />
 
 
 ### Sample Predictions
 
-![Sample Predictions]
 <img width="637" height="687" alt="image" src="https://github.com/user-attachments/assets/c7aa3790-2f92-497b-ac09-4f5cb05d0924" />
 
 
