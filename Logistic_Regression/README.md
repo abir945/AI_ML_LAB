@@ -64,28 +64,32 @@ The notebook generates and saves the following outputs:
 ### Confusion Matrix
 
 ![Confusion Matrix]
-https://github.com/abir945/AI_ML_LAB/blob/main/Logistic_Regression/screenshots/Confusion%20Matrix.png?raw=true
+<img width="603" height="758" alt="image" src="https://github.com/user-attachments/assets/537ff39f-0abb-43dd-b251-1a9f85f486f7" />
+
 
 ### Evaluation Metrics
 
 ![Evaluation Metrics]
-https://github.com/abir945/AI_ML_LAB/blob/main/Logistic_Regression/screenshots/Evaluation%20Metrics.png?raw=true
+<img width="572" height="359" alt="image" src="https://github.com/user-attachments/assets/e53591d3-6c37-4947-bdd8-aa9cac895de6" />
+
 
 ### ROC Curve
 
 ![ROC Curve]
-https://github.com/abir945/AI_ML_LAB/blob/main/Logistic_Regression/screenshots/ROC%20Curve.png?raw=true
+<img width="685" height="755" alt="image" src="https://github.com/user-attachments/assets/ef2ab327-2b17-4de5-a4c6-12f0e4443b69" />
+
 
 ### Sample Predictions
 
 ![Sample Predictions]
-https://github.com/abir945/AI_ML_LAB/blob/main/Logistic_Regression/screenshots/Sample%20Predictions.png?raw=true
+<img width="637" height="687" alt="image" src="https://github.com/user-attachments/assets/c7aa3790-2f92-497b-ac09-4f5cb05d0924" />
+
 
 ---
 
 ## How to Run
 
-1. Open `210137_logistic.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `220144_logistic.ipynb` in Jupyter Notebook or Google Colab.
 2. Make sure the dataset is available at:
 
 ```text
@@ -134,13 +138,6 @@ scikit-learn
 The evaluation metrics indicate strong class separation on the current dataset.  
 However, the model should also be validated using a holdout test set or cross-validation to confirm that it generalizes well to unseen data.
 
-Possible improvements:
-
-- Apply cross-validation
-- Tune hyperparameters
-- Check class imbalance
-- Try feature scaling
-- Compare with other classification models
 
 ---
 
