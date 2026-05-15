@@ -109,7 +109,7 @@ Add your screenshots inside the `screenshots/` folder and update the image paths
 
 ### File Description
 
-- `220144_regression.ipynb` - Main Google Colab / Jupyter Notebook containing the full implementation.
+- `220144_linear.ipynb` - Main Google Colab / Jupyter Notebook containing the full implementation.
 - `dataset/train.csv` - Dataset used for training and testing the model.
 - `screenshots/` - Folder containing output screenshots from the notebook.
 - `README.md` - Project documentation file.
@@ -137,7 +137,7 @@ Required libraries:
 ## How to Run
 
 1. Open the project folder.
-2. Open `220144_regression.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `220144_linear.ipynb` in Jupyter Notebook or Google Colab.
 3. Make sure the dataset is available at:
 
 ```text
