@@ -1,0 +1,11 @@
+experience,country,education,languages,frameworks,company_size,salary_usd
+1,India,Bachelors,"Python, JavaScript","Django, React",1-10,42000
+3,Brazil,Some College,"PHP, JavaScript","Laravel, Vue",11-50,58000
+6,Canada,Bachelors,"Java, Python","Spring, Flask",51-200,92000
+9,USA,Masters,"Python, Rust","FastAPI, React",201-1000,135000
+12,Germany,Bachelors,"C#, JavaScript","ASP.NET, Angular",1001-5000,118000
+16,UK,Masters,"Ruby, Go","Ruby on Rails, Vue",5000+,142000
+22,Singapore,PhD,"Java, Go","Spring, Express",201-1000,166000
+28,USA,Masters,"Swift, Rust","Flask, React",5000+,205000
+33,USA,PhD,"C++, Python","Flask, ASP.NET",5000+,232000
+38,Japan,High School,"PHP, Ruby","Laravel, Ruby on Rails",51-200,125000
