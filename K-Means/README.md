@@ -14,7 +14,7 @@ plots/
   elbow_curve.png
   cluster_scatter_pca.png
   custom_predictions.csv
-220144_KMeans.ipynb
+220144_K-Means.ipynb
 README.md
 ```
 
